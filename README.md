@@ -17,7 +17,7 @@ Collection of training resources to support the harmonization of neuroimaging da
 
 ## Need help?
 
-Please create a new topic with your question in [Discussions](https://github.com/NCCR-SYNAPSY/neuroimaging-data-management-training/discussions).
+Please create a new discussion with your question in [Discussions](https://github.com/NCCR-SYNAPSY/neuroimaging-data-management-training/discussions).
 
 ## Authors
 

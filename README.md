@@ -1,5 +1,5 @@
 # neuroimaging-data-management-training
-Collection of training resources to support the harmonization of neuroimaging data inside NCCR SYNAPSY
+Collection of training resources to support the harmonization of neuroimaging data inside NCCR SYNAPSY.
 
 ## Presentations
 
@@ -14,3 +14,7 @@ Collection of training resources to support the harmonization of neuroimaging da
 * From DICOM to BIDS dataset using Heudiconv (by James Kent): https://www.youtube.com/watch?v=O1kZAuR7E00
 
 * Introduction to Datalad (by Adina Wagner): https://www.youtube.com/watch?v=QsAqnP7TwyY
+
+## Need help?
+
+Please create a new topic with your question in [Discussions](https://github.com/NCCR-SYNAPSY/neuroimaging-data-management-training/discussions).

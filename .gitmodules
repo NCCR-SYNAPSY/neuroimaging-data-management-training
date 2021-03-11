@@ -1,0 +1,3 @@
+[submodule "01_intro_bids_datalad"]
+	path = 01_intro_bids_datalad
+	url = git@github.com:sebastientourbier/synapsy-training-03-2021.git

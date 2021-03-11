@@ -21,11 +21,11 @@ Please create a new topic with your question in [Discussions](https://github.com
 
 ## Authors
 
-* Sebastien Tourbier ([@sebastientourbier](https://github.com/sebastientourbier)), Connectomics Lab, Lausanne, Switzerland
+* Sebastien Tourbier ([@sebastientourbier](https://github.com/sebastientourbier)), Connectomics Lab, Lausanne University and Hospital Center (UNIL_CHUV), Switzerland
 
 ## License
 
 CC-BY-4.0 licensed
 
 --------------------
-Copyright (C) 2021 Connectomics Lab, Lausanne University and Hospital Center (UNIL_CHUV), Switzerland
+Copyright (C) 2021 Lausanne University and Hospital Center (UNIL_CHUV), Switzerland

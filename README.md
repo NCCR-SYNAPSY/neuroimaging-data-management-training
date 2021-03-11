@@ -18,3 +18,14 @@ Collection of training resources to support the harmonization of neuroimaging da
 ## Need help?
 
 Please create a new topic with your question in [Discussions](https://github.com/NCCR-SYNAPSY/neuroimaging-data-management-training/discussions).
+
+## Authors
+
+* Sebastien Tourbier (@sebastientourbier)
+
+## License
+
+CC-BY-4.0 licensed
+
+--------------------
+Copyright (C) 2021 Connectomics Lab, Lausanne University and Hospital Center (UNIL_CHUV), Switzerland

@@ -21,7 +21,7 @@ Please create a new topic with your question in [Discussions](https://github.com
 
 ## Authors
 
-* Sebastien Tourbier (@sebastientourbier)
+* Sebastien Tourbier ([@sebastientourbier](https://github.com/sebastientourbier))
 
 ## License
 

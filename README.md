@@ -1,6 +1,6 @@
 # neuroimaging-data-management-training
 
-Collection of training resources to support the harmonization of neuroimaging data inside NCCR SYNAPSY
+Collection of training resources to support the standardization of neuroimaging data inside NCCR SYNAPSY
 
 
 ## Presentations
@@ -30,6 +30,11 @@ Collection of training resources to support the harmonization of neuroimaging da
 * Introduction to NeuroDataPub
   (view [RevealJS](https://nccr-synapsy.github.io/introduction-to-neurodatapub/) /
   [PDF](https://github.com/NCCR-SYNAPSY/introduction-to-neurodatapub/raw/main/introduction-to-neurodatapub.pdf))
+  
+*Thursday, 14 October 2021 - Annual Meeting in Les Diablerets*
+
+* Standardization of Neuroimaging Data Management inside Synapsy
+  (view [RevealJS](https://sebastientourbier.github.io/synapsy-dmp-annual-meeting-10-21/))
  
 ## Recommended tutorials
 

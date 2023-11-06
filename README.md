@@ -1,4 +1,4 @@
-# neuroimaging-data-management-training
+# NCCR-SYNAPSY: Neuroimaging Data Management Training Resources
 
 Collection of training resources to support the standardization of neuroimaging data inside NCCR SYNAPSY
 
